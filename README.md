@@ -1,2 +1,2 @@
 # Utils.python
-Useful python utilities. Only bug-free, documented code allowed!
+Contains (quasi) useful utilities and example code written in Python
